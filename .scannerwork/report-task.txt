@@ -1,0 +1,6 @@
+projectKey=gti-backend
+serverUrl=http://host.docker.internal:9001
+serverVersion=10.4.1.88267
+dashboardUrl=http://host.docker.internal:9001/dashboard?id=gti-backend
+ceTaskId=85c779c7-3d30-46b6-9e73-94bf7af1660a
+ceTaskUrl=http://host.docker.internal:9001/api/ce/task?id=85c779c7-3d30-46b6-9e73-94bf7af1660a

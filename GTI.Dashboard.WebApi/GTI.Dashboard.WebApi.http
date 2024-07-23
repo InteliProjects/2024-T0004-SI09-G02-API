@@ -1,0 +1,6 @@
+@GTI.Dashboard.WebApi_HostAddress = http://localhost:5037
+
+GET {{GTI.Dashboard.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
